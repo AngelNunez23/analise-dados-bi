@@ -39,7 +39,7 @@ Este repositório será utilizado para armazenar:
 
 ---
 
-# 📈 Em aprendizado
+# 📈 Em Aprendizado
 
 - Python para Ciência de Dados  
 - Estatística  
