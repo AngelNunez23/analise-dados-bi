@@ -19,12 +19,12 @@ Portfólio de projetos focados em Ciência de Dados, Business Intelligence e An�
 
 Este repositório será utilizado para armazenar:
 
-- Projetos de análise de dados
-- Dashboards interativos
-- Estudos de Data Science
-- Visualizações de dados
-- Projetos de BI
-- Machine Learning futuramente
+- Projetos de análise de dados  
+- Dashboards interativos  
+- Estudos de Data Science  
+- Visualizações de dados  
+- Projetos de BI  
+- Aprendizado de máquina futuramente  
 
 ---
 
@@ -41,13 +41,11 @@ Este repositório será utilizado para armazenar:
 
 # 📈 Em aprendizado
 
-Atualmente estudando:
-
-- Python para Data Science
-- Estatística
-- SQL
-- Power BI
-- Machine Learning
+- Python para Ciência de Dados  
+- Estatística  
+- SQL  
+- Power BI  
+- Aprendizado de Máquina  
 
 ---
 
