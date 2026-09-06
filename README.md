@@ -9,7 +9,7 @@ Portfólio de projetos focados em Ciência de Dados, Business Intelligence e An�
 ✅ Python  
 ✅ Pandas  
 ✅ Power BI  
-✅ SQL  
+✅ SQL Avazando
 ✅ NumPy  
 ✅ Excel  
 
